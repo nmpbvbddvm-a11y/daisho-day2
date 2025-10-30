@@ -18,3 +18,4 @@ body{
     color:var(--fg);background: radial-gradient(1600px 800px at 10% 0%,#e8efff 0%,var(--bg)40%);
     background-attachment: fixed;
 }
+
