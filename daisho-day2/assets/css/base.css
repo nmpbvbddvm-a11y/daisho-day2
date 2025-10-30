@@ -13,3 +13,8 @@ html,body{margin:0;padding:0;}
         --brand:#60a5fa;--brand-weak:#0f172a;
     }
 }
+body{
+    font-family:"Yu Gothic","Meiryo",system-ui, -apple-system, sans-serif;
+    color:var(--fg);background: radial-gradient(1600px 800px at 10% 0%,#e8efff 0%,var(--bg)40%);
+    background-attachment: fixed;
+}
